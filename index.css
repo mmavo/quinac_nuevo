@@ -1,0 +1,48 @@
+
+
+#logo img{	
+	max-width: 15vh;
+	margin-left: 6em;
+	padding: 0;
+}
+#main .carousel-inner img { 
+	max-height: 80vh;
+	object-fit: cover;
+	filter: grayscale(10%);
+ }
+
+
+ #time #somos {
+	position: absolute;
+	color: black;
+}
+#time img {
+	max-width: 100%;
+}
+#time {
+	background-color: #3c3f42;
+	color: white;}
+#proyectos .card {
+	padding-bottom: 3%;
+	padding-top: 3%;
+}
+#productos img {
+	max-width:100%;
+}
+#productos {
+	padding-top: 5%;
+}
+
+#footer {
+	padding: 1px;
+	background: #212529;
+
+  
+
+}
+
+#titulo-footer {
+	color: white;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
